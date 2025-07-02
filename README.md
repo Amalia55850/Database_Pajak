@@ -1,5 +1,7 @@
 # Database_Pajak
 Tax SQL Database
+Nama: Amalia Oktaviyani
+NIM: 23.02.0.0009
 
 # Deskripsi
 Database ini dibuat sebagai tugas UAS dengan topik sistem pelaporan dan pembayaran pajak. Sistem ini dirancang untuk mencatat data wajib pajak, jenis pajak, pelaporan pajak (SPT), pembayaran pajak, sanksi/denda, pegawai KPP, dan informasi kantor pelayanan pajak. Struktur dan relasi dirancang agar mencerminkan proses yang umum terjadi dalam sistem perpajakan.
